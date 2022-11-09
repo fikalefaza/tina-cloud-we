@@ -7,5 +7,9 @@ blocks:
     author: Phil Karlton
     color: primary
     _template: testimonial
+  - body: |
+      sassssssssaaaaaaaaaa
+    color: default
+    _template: content
 ---
 
